@@ -31,7 +31,20 @@ There is always so much to learn, and I'm genuinely excited to keep experimentin
 ### 📊 Data Science & ML Libraries
 `NumPy` &nbsp;&bull;&nbsp; `Pandas` &nbsp;&bull;&nbsp; `Matplotlib` &nbsp;&bull;&nbsp; `Scikit-Learn`
 
-### 🚀 Exploring
+### 🚀 Currently Learning & Exploring
 - ⚡ **Large Language Models (LLMs)**
 - ⚡ **Retrieval-Augmented Generation (RAG)**
 - ⚡ **Agentic AI & Autonomous Agents**
+
+
+
+---
+
+## Tools & Interests
+
+### 🛠️ Tools & Daily Environment
+`Antigravity IDE` &nbsp;&bull;&nbsp; `VS Code` &nbsp;&bull;&nbsp; `Git & GitHub`
+
+### 🎯 Future Interests & Next Targets
+- 🌐 **Scalable Backend Development**: Building APIs and systems to serve and scale AI models.
+- 🔮 **Emerging Technologies**: Exploring next-generation breakthroughs in AI architectures and engineering.
