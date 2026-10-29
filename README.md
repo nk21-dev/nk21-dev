@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" width="100%" alt="AI Neural Banner" />
 </div>
 
-## 01 // MISSION & CORE FOCUS
+## About Me
 
 > **Aspiring AI Engineer | Curious Mind, Passionate Learner**
 
