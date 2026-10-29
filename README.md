@@ -53,15 +53,23 @@ There is always so much to learn, and I'm genuinely excited to keep experimentin
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithish-kumar-chirukuripati-1a0358338)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nk21-dev)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithishkumarchirukuripati21@gmail.com)
-&nbsp;
-[![Mobile](https://img.shields.io/badge/Mobile-+91%209490623289-00F5D4?style=for-the-badge&logo=whatsapp&logoColor=black)](tel:+919490623289)
-
-<br/><br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nithish-kumar-chirukuripati-1a0358338">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/nk21-dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:nithishkumarchirukuripati21@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="tel:+919490623289">
+    <img src="https://img.shields.io/badge/Mobile-+91%209490623289-00F5D4?style=for-the-badge&logo=whatsapp&logoColor=black" alt="Mobile" />
+  </a>
+</p>
 
 <img src="assets/footer.svg" width="100%" alt="Floating Footer Design" />
 
