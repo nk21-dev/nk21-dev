@@ -17,3 +17,21 @@ I love understanding how systems work from the ground up—not just using models
 - **Scalable Backends**: How to architect strong, reliable backend systems that allow AI workflows to run smoothly in real-world applications.
 
 There is always so much to learn, and I'm genuinely excited to keep experimenting, building from first principles, and seeing where this journey takes me.
+
+---
+
+## Skills & Technical Focus
+
+### 💻 Programming Languages
+`Python` &nbsp;&bull;&nbsp; `C++`
+
+### 🧠 Foundational AI / ML
+`Machine Learning (ML)` &nbsp;&bull;&nbsp; `Deep Learning (DL)`
+
+### 📊 Data Science & ML Libraries
+`NumPy` &nbsp;&bull;&nbsp; `Pandas` &nbsp;&bull;&nbsp; `Matplotlib` &nbsp;&bull;&nbsp; `Scikit-Learn`
+
+### 🚀 Exploring
+- ⚡ **Large Language Models (LLMs)**
+- ⚡ **Retrieval-Augmented Generation (RAG)**
+- ⚡ **Agentic AI & Autonomous Agents**
