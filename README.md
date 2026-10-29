@@ -36,8 +36,6 @@ There is always so much to learn, and I'm genuinely excited to keep experimentin
 - ⚡ **Retrieval-Augmented Generation (RAG)**
 - ⚡ **Agentic AI & Autonomous Agents**
 
-
-
 ---
 
 ## Tools & Interests
@@ -48,3 +46,23 @@ There is always so much to learn, and I'm genuinely excited to keep experimentin
 ### 🎯 Future Interests & Next Targets
 - 🌐 **Scalable Backend Development**: Building APIs and systems to serve and scale AI models.
 - 🔮 **Emerging Technologies**: Exploring next-generation breakthroughs in AI architectures and engineering.
+
+---
+
+<div align="center">
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithish-kumar-chirukuripati-1a0358338)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nk21-dev)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithishkumarchirukuripati21@gmail.com)
+&nbsp;
+[![Mobile](https://img.shields.io/badge/Mobile-+91%209490623289-00F5D4?style=for-the-badge&logo=whatsapp&logoColor=black)](tel:+919490623289)
+
+<br/><br/>
+
+<img src="assets/footer.svg" width="100%" alt="Floating Footer Design" />
+
+</div>
